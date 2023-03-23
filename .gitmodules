@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DIFtree"]
+	path = DIFtree
+	url = https://github.com/cran/DIFtree
+	shallow = true
+	registered = true
+[submodule "ordDisp"]
+	path = ordDisp
+	url = https://github.com/cran/ordDisp
+	shallow = true
+	registered = true
+[submodule "structree"]
+	path = structree
+	url = https://github.com/cran/structree
+	shallow = true
+	registered = true
+[submodule "TSVC"]
+	path = TSVC
+	url = https://github.com/cran/TSVC
+	shallow = true
+	registered = true
